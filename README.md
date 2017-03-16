@@ -1,6 +1,6 @@
 # Single Line JavaScript App
 
-Create a server side rendered JavaScript app in a single line of bash, thanks to [Next](https://github.com/zeit/next.js/).
+Create a universally rendered JavaScript app in a single line of bash, thanks to [Next](https://github.com/zeit/next.js/).
 
 Check out the result here - [single-line-js-app.now.sh/](https://single-line-js-app.now.sh/)
 
