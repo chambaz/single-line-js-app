@@ -49,4 +49,4 @@ Run that bad boy 😎
 $ npm run dev
 ```
 
-Thanks to @zeit for such an [awesome framework](https://github.com/zeit/next.js).
+Thanks to [@zeit](https://github.com/zeit/) for such an [awesome framework](https://github.com/zeit/next.js).
